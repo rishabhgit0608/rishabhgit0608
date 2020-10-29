@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**rishabhgit0608/rishabhgit0608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hola, I am Rishabh Bhambani 👋
 
 - 🔭 I’m currently working on backend
 - 🌱 I’m currently learning react 
