@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about pure pug 
 - 📫 How to reach me: LinkedIn - 
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I dream codes
+- ⚡ Fun fact: I dream codess
 
