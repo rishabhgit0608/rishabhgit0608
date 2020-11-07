@@ -1,12 +1,30 @@
-### Hola, I am Rishabh Bhambani 👋
+### Hi there, I'm [Rishabh!] 👋
 
-- 🔭 I’m currently working on backend
-- 🌱 I’m currently learning react 
-- 👯 I’m looking to collaborate on web apps 
-- 💬 Ask me about pure pug 
-- 📫 How to reach me: __[LinkedIn](https://www.linkedin.com/in/rishabh-bhambani-0b1a57147/)__
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I dream codes
+<br />
+<br />
+
+Hi, I'm Rishabh Bhambani, a passionate self-taught web developer from India.
+
+- 🔭 I’m currently working on my project Express.js
+- 🌱 I’m currently learning React
+- 💬 Ask me about anything 
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+<!--- 
+  if you have forked this to use on your profile, 
+  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
+--->
+
+<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 
-img src="https://github.com/settings/tokens/812e375c6f8028be4a76a09e0080db5f6fa3d6a1"
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhgit0608" alt="Rishabh's github stats" />
+</a>
