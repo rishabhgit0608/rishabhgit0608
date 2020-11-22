@@ -3,7 +3,7 @@
 <br />
 <br />
 
-Hi, I'm Rishabh Bhambani, a passionate self-taught web developer from India.
+Hi, I'm Rishabh Bhambani, a passionate self-taught web developer from India....
 
 - 🔭 I’m currently working on Express.js
 - 🌱 I’m currently learning React.js library
