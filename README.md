@@ -1,4 +1,4 @@
-### Hi there, I'm [Rishabh!] 👋
+## Hi there, I'm [Rishabh!] 👋
 
 <br />
 <br />
