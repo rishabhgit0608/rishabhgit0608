@@ -5,7 +5,7 @@
 
 Hi, I'm Rishabh Bhambani, a passionate self-taught web developer from India....
 
-- 🔭 I’m currently working on Express.js
+- 🔭 I’m currently working on Personal Projects
 - 🌱 I’m currently learning React.js library
 - 🔭 I'm also working on myself to get into Major League Hacking 
 - 💬 Ask me about anything 
