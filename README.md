@@ -6,8 +6,7 @@
 Hi, I'm Rishabh Bhambani, a passionate self-taught web developer from India....
 
 - 🔭 I’m currently working on Personal Projects
-- 🌱 I’m currently brushing my DS/ALGO skills
-- 🔭 I'm also working on myself to get into Major League Hacking 
+- D I'm also working for Deloitte as a software engineer.
 - 💬 Ask me about anything 
 
 **Languages and Tools:**  
