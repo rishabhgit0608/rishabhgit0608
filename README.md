@@ -1,29 +1,96 @@
-## Hi there, I'm [Rishabh!] 👋
+# 👋 Hi, I'm Rishabh Bhambani
 
-<br />
-<br />
+Backend-Focused Software Engineer with 4+ years of experience building scalable web applications, distributed systems, and AI-powered tools.  
+I specialize in the Python ecosystem and cloud-native architectures on AWS.
 
-Hi, I'm Rishabh Bhambani, a passionate self-taught web developer from India....
+---
 
-- 🔭 I’m currently working on Personal Projects
-- D I'm also working for Deloitte as a software engineer.
-- 💬 Ask me about anything 
+## 🚀 About Me
 
-**Languages and Tools:**  
+- 💼 SDE 2 with strong backend & system design experience  
+- 🐍 Advanced in Python (Django, FastAPI, async workflows)  
+- ☁️ Experienced with AWS (EC2, Lambda, S3, CloudFront, DynamoDB)  
+- 🔁 Strong background in Celery, RabbitMQ, distributed task systems  
+- 🤖 Building AI-driven products using OpenAI & Gemini APIs  
+- ⚡ Focused on performance optimization, reliability, and clean architecture  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+---
 
-<!--- 
-  if you have forked this to use on your profile, 
-  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
---->
+## 🛠 Tech Stack
 
-<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+### Languages
+- Python (Advanced)
+- SQL
+- JavaScript
+- Java (Basic)
 
+### Backend & Frameworks
+- Django
+- Django REST Framework
+- FastAPI
+- Flask
+- Celery
+- Django Celery Beat
 
+### Databases
+- PostgreSQL (Query Optimization & Indexing)
+- DynamoDB
+- Redis
+- BigQuery
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhgit0608" alt="Rishabh's github stats" />
-</a>
+### Async & Messaging
+- RabbitMQ
+- AWS SQS
+
+### Cloud & DevOps
+- AWS (EC2, Lambda, S3, CloudFront)
+- Boto3
+- Docker
+- CI/CD
+- Sentry
+
+### AI & Integrations
+- OpenAI API
+- Gemini API
+- Prompt Engineering
+- HubSpot CRM API
+
+---
+
+## 📌 Key Highlights
+
+- Built backend for an AI voice bot handling **50,000+ daily calls**
+- Reduced webhook response time to **sub-200ms**
+- Designed ETL pipelines processing **5+ TB of data monthly**
+- Built Kafka consumers processing **12,000+ events/sec**
+- Developed AI-powered tools generating **$120K+ revenue**
+- Optimized database queries reducing execution time from **1.2s → 300ms**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishabhgit0608&show_icons=true&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhgit0608&layout=compact&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+- 📧 Email: bhambanirishabh@gmail.com  
+- 💼 LinkedIn  
+- 🌐 Portfolio  
+
+---
+
+## 🎯 Current Focus
+
+- Scaling distributed backend systems
+- Deepening knowledge in AI systems & applied LLM engineering
+- Advanced system design & performance engineering
+
+---
+
+> “Build systems that scale. Optimize what matters. Automate what repeats.”
