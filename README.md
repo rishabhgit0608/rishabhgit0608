@@ -71,8 +71,8 @@ I specialize in the Python ecosystem and cloud-native architectures on AWS.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabhgit0608&show_icons=true&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhgit0608&layout=compact&hide_border=true" height="170"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=rishabhgit0608&show_icons=true&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhgit0608&layout=compact&hide_border=true" height="170"/> -->
 </p>
 
 ---
