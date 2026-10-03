@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rishabh Bhambani
+# 👋 Hi, I'm Rishabh 
 
 Backend-Focused Software Engineer with 4+ years of experience building scalable web applications, distributed systems, and AI-powered tools.  
 I specialize in the Python ecosystem and cloud-native architectures on AWS.
