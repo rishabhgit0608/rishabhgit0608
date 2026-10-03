@@ -79,7 +79,7 @@ I specialize in the Python ecosystem and cloud-native architectures on AWS.
 
 ## 🌍 Connect With Me
 
-- 📧 Email: bhambanirishabh@gmail.com  
+- 📧 Email:
 - 💼 LinkedIn  
 - 🌐 Portfolio  
 
